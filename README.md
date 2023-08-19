@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sachin5510
 - 👀 I’m interested in web Development
-- 🌱 I’m currently learning----
+- 🌱 I’m currently learning  Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
