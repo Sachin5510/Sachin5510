@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sspf2127@gmail.com**
 
-- ⚡Area of Interest **Socialwork , Sports**
+- ⚡Area of Interest :  **Socialwork , Sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
