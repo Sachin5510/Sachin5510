@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on **Machine Learning**
-- 🌱 I’m currently making **Fullstack Webpage**
+- 🌱 I’m currently making **Frontend Webpages**
 - 👯 I’m open to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **Competitive Programming**
 - 💬 Ask me about **Nextjs, Vercel, React, Node, Express, MongoDB, MySQL, Firebase, HTML, CSS, JavaScript, TypeScript, C, C++, Java, Python**
