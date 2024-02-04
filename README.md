@@ -2,11 +2,11 @@
 
   <img align="right" alt="GIF" src="code.gif" width="1000" height="380" />
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=30&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+Prathamesh+Chougale;Nice+to+meet+you!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=30&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+Sachin+Girawale;Nice+to+meet+you!">
 </p>
 
 - 🔭 I’m currently working on **Machine Learning**
-- 🌱 I’m currently making **Fullstack Webpage**
+- 🌱 I’m currently making **Frontend Webpages**
 - 👯 I’m open to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **Competitive Programming**
 - 💬 Ask me about **Nextjs, Vercel, React, Node, Express, MongoDB, MySQL, Firebase, HTML, CSS, JavaScript, TypeScript, C, C++, Java, Python**
