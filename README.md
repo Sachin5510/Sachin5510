@@ -9,7 +9,7 @@
 - 🌱 I’m currently making **Frontend Webpages**
 - 👯 I’m open to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **Competitive Programming**
-- 💬 Ask me about **Nextjs, Vercel, React, Node, Express, MongoDB, MySQL, Firebase, HTML, CSS, JavaScript, TypeScript, C, C++, Java, Python**
+- 💬 Ask me about **MySQL,HTML, CSS, JavaScript,C, C++, Java, Python**
 - 📝 [Resume]()
 - 📝 [Personal Website]()
 <div>
