@@ -9,7 +9,7 @@
 - 🌱 I’m currently making **Frontend Webpages**
 - 👯 I’m open to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **Competitive Programming**
-- 💬 Ask me about **MySQL,HTML, CSS, JavaScript,C, C++, Java, Python**
+- 💬 Ask me about **MySQL,HTML, CSS, JavaScript,C, C++, Java**
 - 📝 [Resume]()
 - 📝 [Personal Website]()
 <div>
@@ -18,7 +18,7 @@
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Sachin5510" height="30" width="30" /></a>
 <a href="#" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="prathamesh_chougale_17" height="30" width="30" /></a>
-<a href="#" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="prathameshchoug1" height="30" width="30" />
+<a href="#" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="Sachingirawale" height="30" width="30" />
 <a href="#" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo-mobile.svg" alt="prathameshchoug1" height="30" width="30" />
 <div>
 <br>
