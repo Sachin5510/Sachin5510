@@ -1,4 +1,4 @@
-# Hii there 👋,I'm Sachin Girawale a Frontend  Developer 
+# Hii there 👋,I'm Sachin Girawale a Full Stack Developer
 
   <img align="right" alt="GIF" src="code.gif" width="1000" height="380" />
 <p align="center">
