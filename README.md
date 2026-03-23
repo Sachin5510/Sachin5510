@@ -6,7 +6,6 @@
 </p>
 
 - 🔭 I’m currently working on **Full Stack Developer**
-- 🌱 I’m currently making **Frontend Webpages**
 - 👯 I’m open to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **Competitive Programming**
 - 💬 Ask me about **MySQL,HTML, CSS, JavaScript,Java**
