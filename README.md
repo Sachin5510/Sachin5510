@@ -5,11 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=30&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+Sachin+Girawale;Nice+to+meet+you!">
 </p>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **Full Stack Developer**
 - 🌱 I’m currently making **Frontend Webpages**
 - 👯 I’m open to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **Competitive Programming**
-- 💬 Ask me about **MySQL,HTML, CSS, JavaScript,C, C++, Java**
+- 💬 Ask me about **MySQL,HTML, CSS, JavaScript,Java**
 - 📝 [Resume]()
 - 📝 [Personal Website]()
 <div>
